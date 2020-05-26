@@ -6,9 +6,9 @@ I decided to build my team which I used in the Pokémon Platinum game using the 
 
 ## Inspirations 
 
-Le décor est inspiré du jeu : les couleurs du background font référence au jeu quand on le lance ; l'apparition des informations cachés fait référence aux plateformes invisible du monde Distortion, l'endroit où il faut capturer le Pokémon légendaire du jeu.
+- Le décor est inspiré du jeu : les couleurs du background font référence au jeu quand on le lance ; l'apparition des informations cachés fait référence aux plateformes invisible du monde Distortion, l'endroit où il faut capturer le Pokémon légendaire du jeu.
 
-The background colours refer to the game when you launch it; the appearance of hidden information refers to the invisible platforms of the Distortion world, the place to capture the game's legendary Pokémon.
+- The background colours refer to the game when you launch it; the appearance of hidden information refers to the invisible platforms of the Distortion world, the place to capture the game's legendary Pokémon.
 
 ## Features
 
@@ -22,8 +22,8 @@ The background colours refer to the game when you launch it; the appearance of h
 
 ## Bug
 
-Il est possible de recontrer un bug sur Chrome lorsqu'on lance le serveur, il faudra rafraichir la page une ou plusieurs fois. 
+- Il est possible de recontrer un bug sur Chrome lorsqu'on lance le serveur, il faudra rafraichir la page une ou plusieurs fois. 
 
-It is possible to encounter a bug on Chrome when launching the server, it will be necessary to refresh the page one or more times. 
+- It is possible to encounter a bug on Chrome when launching the server, it will be necessary to refresh the page one or more times. 
 
 
