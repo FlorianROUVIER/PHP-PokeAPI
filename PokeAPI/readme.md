@@ -2,7 +2,7 @@
 
 J'ai décidé de réaliser mon équipe que j'ai utilisé dans le jeu Pokémon Platine en utilisant l'API PokéAPI. 
 
-I decided to build my team which I used in the Pokémon Platinum game using the PokéAPI API. 
+I decided to build my team which I used in the Pokémon Platinum game using the PokeAPI API. 
 
 ## Inspirations 
 
