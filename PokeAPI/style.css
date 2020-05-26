@@ -1,0 +1,308 @@
+
+
+table 
+{
+    position: absolute;
+    top: calc(50% - 300px);
+    left: calc(50% - 450px);
+    width: 800px;
+    height: 600px;
+}
+
+/* First column */
+
+.column_1 
+{
+    position: absolute;
+    width: 400px;
+    height: 592px;
+   
+    
+}
+/* Second column */
+
+.column_2
+{
+    position: absolute;
+    width: 400px;
+    height: 592px;
+    left: 50%;
+}
+
+/* Pokemon cell */
+
+.pokemon_cell
+{
+    display: flex;
+    flex-direction: column;
+    height: 211px;
+    width: 98%;
+    border: 2px solid black;
+    background: #3a2121;
+}
+
+.pokemon_cell img
+{
+    position: relative;
+    height: 96px;
+    width: 96px;
+    left: 12px;
+    top: 38px;
+}
+
+/* Pokemon types */
+
+.pokemon_first_type  img
+{
+    position: relative;
+    width: 39px;
+    height: 16px;
+    top: 10px;
+    left: 20px;
+}
+
+.pokemon_second_type  img
+{
+    position: relative;
+    width: 39px;
+    height: 16px;
+    top: -6px;
+    left: 62px;
+}
+
+/* Pokemon name */
+
+.pokemon_name
+{
+    position: relative;
+    left: 35px;
+    top: 18px;
+    color: white;
+}
+
+/* Pokemons moves */
+
+.pokemon_moves
+{
+    position: relative;
+    width: 164px;
+    height: 140px;
+    top: -161px;
+    left: 48%;
+    color: white;
+}
+
+.pokemon_moves img
+{
+    width: 39px;
+    height: 16px;
+    top: 7px;
+    left: -32px;
+}
+
+/* Hidden infos  */
+
+.id392_infos
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 1%;
+    left: -55%;
+    background: #3a2121;
+    border: solid 1px white;
+    opacity: 0%;
+    will-change: opacity;
+}
+
+
+.id392_infos h4 
+{
+    text-align: center;
+    margin: 10px -5px -20px;
+    color: white;
+}
+
+.id392_infos p
+{
+    text-align: center; 
+    color: white;
+}
+
+.id398_infos
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: -55%;
+    background: #3a2121;
+    border: solid 1px white;
+    opacity: 0%;
+    will-change: opacity;
+}
+
+
+.id398_infos h4 
+{
+    text-align: center;
+    margin: 10px -5px -20px;
+    color: white;
+}
+
+.id398_infos p
+{
+    text-align: center; 
+    color: white;
+}
+
+.id462_infos
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: -55%;
+    background: #3a2121;
+    border: solid 1px white;
+    opacity: 0%;
+    will-change: opacity;
+}
+
+
+.id462_infos h4 
+{
+    text-align: center;
+    margin: 10px -5px -20px;
+    color: white;
+}
+
+.id462_infos p
+{
+    text-align: center; 
+    color: white;
+}
+
+.id130_infos
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 104%;
+    top: 1%;
+    background: #3a2121;
+    border: solid 1px white;
+    opacity: 0%;
+    will-change: opacity;
+}
+
+
+.id130_infos h4 
+{
+    text-align: center;
+    margin: 10px -5px -20px;
+    color: white;
+}
+
+.id130_infos p
+{
+    text-align: center; 
+    color: white;
+}
+
+.id445_infos
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 104%;
+    background: #3a2121;
+    border: solid 1px white;
+    opacity: 0%;
+    will-change: opacity;
+}
+
+
+.id445_infos h4 
+{
+    text-align: center;
+    margin: 10px -5px -20px;
+    color: white;
+}
+
+.id445_infos p
+{
+    text-align: center; 
+    color: white;
+}
+
+
+.id487_infos
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 104%;
+    background: #3a2121;
+    border: solid 1px white;
+    opacity: 0%;
+    will-change: opacity;
+}
+
+
+.id487_infos h4 
+{
+    text-align: center;
+    margin: 10px -5px -20px;
+    color: white;
+}
+
+.id487_infos p
+{
+    text-align: center; 
+    color: white;
+}
+
+
+/* Animation on hover */
+
+.js_hover:hover, .js_hover2:hover, .js_hover3:hover, .js_hover4:hover, .js_hover5:hover, .js_hover6:hover
+{
+    cursor:pointer
+}
+
+.opacity_infos
+{
+    opacity: 100%;
+    animation: opacity 1.5s;
+}
+
+@keyframes opacity
+{
+    0% 
+    {
+        opacity:  0% ;
+    }
+    100%
+    {
+        opacity:  100%  ;
+    }
+}
+
+
+/* Rules */
+
+.rules
+{
+    position: absolute;
+    width: 424px;
+    height: 95px;
+    top: 89%;
+    left: 36%;
+    background: #3a2121;
+    border: 3px solid black;
+}
+
+.rules 
+{
+    text-align: center;
+    color:#ffffffd1;
+}
